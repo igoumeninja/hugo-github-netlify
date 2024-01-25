@@ -15,5 +15,12 @@
       <guid>/test/</guid>
       <description>&#xA;[2017-10-23 Mon] Νέα σχολική χρονιά [2016-06-23 Thu] Έχουν γίνει δυο επισκέψεις και συνεχίζουμε [2016-06-17 Fri] Εκκίνηση καθαρισμού </description>
     </item>
+    <item>
+      <title>Το Μαντρί</title>
+      <link>/test2/</link>
+      <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/test2/</guid>
+      <description>jdskdjlhfdsljfhsldfh&#xA;[2017-10-23 Mon] Νέα σχολική χρονιά [2016-06-23 Thu] Έχουν γίνει δυο επισκέψεις και συνεχίζουμε [2016-06-17 Fri] Εκκίνηση καθαρισμού </description>
+    </item>
   </channel>
 </rss>
