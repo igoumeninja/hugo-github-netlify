@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>πρόβατα on My New Hugo Site</title>
-    <link>https://example.org/tags/%CF%80%CF%81%CF%8C%CE%B2%CE%B1%CF%84%CE%B1/</link>
-    <description>Recent content in πρόβατα on My New Hugo Site</description>
+    <title>πρόβατα on </title>
+    <link>/tags/%CF%80%CF%81%CF%8C%CE%B2%CE%B1%CF%84%CE%B1/</link>
+    <description>Recent content in πρόβατα on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/tags/%CF%80%CF%81%CF%8C%CE%B2%CE%B1%CF%84%CE%B1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%CF%80%CF%81%CF%8C%CE%B2%CE%B1%CF%84%CE%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Το Μαντρί</title>
-      <link>https://example.org/test/</link>
+      <link>/test/</link>
       <pubDate>Mon, 23 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.org/test/</guid>
+      <guid>/test/</guid>
       <description>&#xA;[2017-10-23 Mon] Νέα σχολική χρονιά [2016-06-23 Thu] Έχουν γίνει δυο επισκέψεις και συνεχίζουμε [2016-06-17 Fri] Εκκίνηση καθαρισμού </description>
     </item>
   </channel>
