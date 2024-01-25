@@ -71,7 +71,7 @@ blockquote p:first-child {
 @media (prefers-color-scheme: dark) {
   blockquote {
     border-left: 5px solid #444;
- }
+  }
 }
 hr.small {
   max-width: 100px;
@@ -168,11 +168,7 @@ figure:not(.dark) img, img.white {
 }
 
 .navbar-custom .nav li a {
-  /* 
-   !!!!!!!!!!!!!!!!!!!!!!!!!!!!! 
-   text-transform: uppercase; 
- */
- 
+  text-transform: uppercase;
   font-size: 12px;
   letter-spacing: 1px;
 }
@@ -484,7 +480,6 @@ footer div.disclaimer {
 .post-entry {
   width: 100%;
   margin-top: 10px;
-  overflow-x:auto;   /*  added by Aris 240104 */
 }
 .post-image {
   float: right;
@@ -508,7 +503,7 @@ footer div.disclaimer {
 
 @media only screen and (min-width: 768px) {
   .post-preview .post-title {
-    font-size: 24px;
+    font-size: 36px;
   }
 }
 
@@ -722,7 +717,7 @@ footer div.disclaimer {
 
 .pager li a {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  /*  text-transform: uppercase; */ 
+  text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
   letter-spacing: 1px;
@@ -856,7 +851,7 @@ div.splitbox div.right {
 /* Delayed Disqus */
 .disqus-comments button {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  /* text-transform: uppercase;*/
+  text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
   letter-spacing: 1px;
